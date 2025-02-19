@@ -1,5 +1,5 @@
 # genshin-plus
-Simple script for claiming your daily check-in rewards on hoyolab through the use of TheSadru's genshin API wrapper and launching the Genshin Impact game.
+Simple script for claiming your daily check-in rewards on hoyolab through the use of TheSadru's genshin API wrapper and launching the Genshin Impact game. Currently only working for the "overseas" Americas server.
  
 # Requirements
 - Python 3.x (if compiling yourself)
